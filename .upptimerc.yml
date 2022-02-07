@@ -7,7 +7,7 @@ sites:
   - name: Annotator UI
     url: http://ogbv-annotator.tattle.co.in/
   - name: ElasticSearch
-    url: http://13.234.125.86
+    url: 13.234.125.86
     port: 9200
 
 status-website:
