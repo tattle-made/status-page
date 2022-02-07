@@ -1,7 +1,7 @@
 url: http://13.234.125.86:9200
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-02-07T13:31:19.868Z
+status: up
+code: 200
+responseTime: 717
+lastUpdated: 2022-02-07T13:46:11.585Z
 startTime: Mon Feb 07 2022 03:41:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
