@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/kosh-server.tattle.co.in",
     "slug": "kosh",
     "status": "up",
-    "uptime": "2.56%",
-    "uptimeDay": "2.56%",
-    "uptimeWeek": "2.56%",
-    "uptimeMonth": "2.56%",
-    "uptimeYear": "2.56%",
-    "time": 1003,
-    "timeDay": 1003,
-    "timeWeek": 1003,
-    "timeMonth": 1003,
-    "timeYear": 1003,
+    "uptime": "18.14%",
+    "uptimeDay": "18.14%",
+    "uptimeWeek": "18.14%",
+    "uptimeMonth": "18.14%",
+    "uptimeYear": "18.14%",
+    "time": 993,
+    "timeDay": 993,
+    "timeWeek": 993,
+    "timeMonth": 993,
+    "timeYear": 993,
     "dailyMinutesDown": {
       "2022-02-07": 589
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 529,
-    "timeDay": 529,
-    "timeWeek": 529,
-    "timeMonth": 529,
-    "timeYear": 529,
+    "time": 522,
+    "timeDay": 522,
+    "timeWeek": 522,
+    "timeMonth": 522,
+    "timeYear": 522,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/13.234.125.86",
     "slug": "elastic-search",
     "status": "up",
-    "uptime": "91.34%",
-    "uptimeDay": "91.34%",
-    "uptimeWeek": "91.34%",
-    "uptimeMonth": "91.34%",
-    "uptimeYear": "91.34%",
-    "time": 717,
-    "timeDay": 717,
-    "timeWeek": 717,
-    "timeMonth": 717,
-    "timeYear": 717,
+    "uptime": "94.79%",
+    "uptimeDay": "94.79%",
+    "uptimeWeek": "94.79%",
+    "uptimeMonth": "94.79%",
+    "uptimeYear": "94.79%",
+    "time": 570,
+    "timeDay": 570,
+    "timeWeek": 570,
+    "timeMonth": 570,
+    "timeYear": 570,
     "dailyMinutesDown": {
-      "2022-02-07": 53
+      "2022-02-07": 38
     }
   }
 ]
