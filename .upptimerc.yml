@@ -7,6 +7,7 @@ sites:
   - name: Annotator UI
     url: http://ogbv-annotator.tattle.co.in/
   - name: ElasticSearch
+    check: "tcp-ping"
     url: 13.234.125.86
     port: 9200
 
