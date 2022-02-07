@@ -15,8 +15,8 @@ status-website:
   baseUrl: /status-page
   logoUrl: https://blog.tattle.co.in/content/images/2020/05/xmonogram.png.pagespeed.ic.2hCvSeijLj.png
   name: Tattle
-  introTitle: "Monitor Status of Tattle Services here."
-  introMessage: We provide near realtime status updates on our various services. Each outage has an associated github issue where you can track its progress or help fix it.
+  introTitle: "Tattle Service Monitor"
+  introMessage: Check out this page for periodic status updates on various Tattle services. Each outage has an associated github issue where you can track its progress or help fix it.
   navbar:
     - title: Status
       href: /
