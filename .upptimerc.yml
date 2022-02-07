@@ -22,7 +22,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/tattle-made/status-page
-  theme: ocean
+  theme: light
 
 assignees:
   - dennyabrain
