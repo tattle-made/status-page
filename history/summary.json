@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/kosh-server.tattle.co.in",
     "slug": "kosh",
     "status": "down",
-    "uptime": "3.80%",
-    "uptimeDay": "3.80%",
-    "uptimeWeek": "3.80%",
-    "uptimeMonth": "3.80%",
-    "uptimeYear": "3.80%",
-    "time": 1109,
-    "timeDay": 1109,
-    "timeWeek": 1109,
-    "timeMonth": 1109,
-    "timeYear": 1109,
+    "uptime": "0.20%",
+    "uptimeDay": "0.20%",
+    "uptimeWeek": "0.20%",
+    "uptimeMonth": "0.20%",
+    "uptimeYear": "0.20%",
+    "time": 1021,
+    "timeDay": 1021,
+    "timeWeek": 1021,
+    "timeMonth": 1021,
+    "timeYear": 1021,
     "dailyMinutesDown": {
-      "2022-02-07": 1
+      "2022-02-07": 18
     }
   },
   {
@@ -30,31 +30,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 578,
-    "timeDay": 578,
-    "timeWeek": 578,
-    "timeMonth": 578,
-    "timeYear": 578,
+    "time": 533,
+    "timeDay": 533,
+    "timeWeek": 533,
+    "timeMonth": 533,
+    "timeYear": 533,
     "dailyMinutesDown": {}
   },
   {
     "name": "ElasticSearch",
-    "url": "http://13.234.125.86",
-    "icon": "https://favicons.githubusercontent.com/13.234.125.86",
+    "url": "13.234.125.86",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "elastic-search",
     "status": "down",
-    "uptime": "74.66%",
-    "uptimeDay": "74.66%",
-    "uptimeWeek": "74.66%",
-    "uptimeMonth": "74.66%",
-    "uptimeYear": "74.66%",
+    "uptime": "2.72%",
+    "uptimeDay": "2.72%",
+    "uptimeWeek": "2.72%",
+    "uptimeMonth": "2.72%",
+    "uptimeYear": "2.72%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-07": 0
+      "2022-02-07": 18
     }
   }
 ]
