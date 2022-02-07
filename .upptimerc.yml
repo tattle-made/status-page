@@ -21,3 +21,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/tattle-made/status-page
+  theme: light
+
+assignees:
+  - dennyabrain
+  - d80ep08th 
