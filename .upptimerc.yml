@@ -8,8 +8,6 @@ sites:
       - 401
   - name: Annotator UI
     url: http://ogbv-annotator.tattle.co.in/
-  - name: ElasticSearch
-    url: http://13.234.125.86:9200
 
 status-website:
   baseUrl: /status-page
