@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/kosh-server.tattle.co.in",
     "slug": "kosh",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.41%",
-    "time": 1045,
-    "timeDay": 999,
-    "timeWeek": 934,
-    "timeMonth": 1139,
-    "timeYear": 1045,
+    "uptimeYear": "99.42%",
+    "time": 1044,
+    "timeDay": 913,
+    "timeWeek": 936,
+    "timeMonth": 1142,
+    "timeYear": 1044,
     "dailyMinutesDown": {
       "2022-02-07": 589
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 523,
-    "timeDay": 591,
+    "timeDay": 535,
     "timeWeek": 527,
-    "timeMonth": 507,
+    "timeMonth": 509,
     "timeYear": 523,
     "dailyMinutesDown": {}
   }
